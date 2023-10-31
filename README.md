@@ -24,7 +24,14 @@ Représentation graphique de la distribution des machines par marque
 
 ## Image
 ![image](https://github.com/killer-beep07/TP-Ajax2/assets/130712993/66756525-8e3c-4355-8af0-005ee5f7caad)
-![279206029-736dd97f-00f8-4640-bddb-a80b1655d7f0](https://github.com/killer-beep07/TP-Ajax2/assets/130712993/08d72355-554d-42e7-aadd-d323f0a576fe)
-![279205672-08018251-8e9a-4a93-9f7b-55dd2e7e7d64](https://github.com/killer-beep07/TP-Ajax2/assets/130712993/148087b0-53c9-45c0-a1af-89d929480984)
+<img width="800" alt="image" src="https://github.com/killer-beep07/TP-AJAX/assets/130712993/74299fb6-8573-4f57-b789-aa115bae1c96">
+<img width="810" alt="image" src="https://github.com/killer-beep07/TP-AJAX/assets/130712993/e227eba2-cd17-42a5-92cd-48530bc01285">
+<img width="732" alt="image" src="https://github.com/killer-beep07/TP-AJAX/assets/130712993/7fc4c2ea-6418-43c2-8df2-32c00f39c7a8">
+
+
+
+
+
+
 
 
